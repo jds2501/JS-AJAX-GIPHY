@@ -36,3 +36,7 @@ button {
 #remove-images {
     background-color: #f45938;
 }
+
+#current-images {
+    margin: 2rem;
+}
