@@ -1,0 +1,38 @@
+html {
+    background-color: #212121;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #353535;
+    margin-top: 0px;
+    font-weight: lighter;
+}
+
+input, button {
+    padding: 0.5rem;
+}
+
+button {
+    color: white;
+}
+
+#giphy-search-remove {
+    display: flex;
+    justify-content: center;
+}
+
+#submit-giphy {
+    background-color: #444444;
+}
+
+#remove-images {
+    background-color: #f45938;
+}
